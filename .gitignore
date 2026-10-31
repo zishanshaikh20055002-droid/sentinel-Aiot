@@ -1,0 +1,5 @@
+# Local development and generated review files
+work/
+
+# Regenerated source bundles; the application source is tracked directly
+outputs/*.zip
